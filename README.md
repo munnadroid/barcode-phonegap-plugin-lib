@@ -1,0 +1,2 @@
+barcode-phonegap-plugin-lib
+===========================
